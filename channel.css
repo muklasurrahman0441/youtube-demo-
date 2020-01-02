@@ -1,0 +1,42 @@
+.main-content img {
+float: left;
+padding: 0 5px 5px 0;
+margin-bottom:34px;
+}
+
+
+.span{
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    background: transparent;
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    position: absolute;
+}
+/*Create a horizontal list with spacing*/
+li {
+   display: inline-block;
+    float: left;
+    margin-right: 36px;
+    margin-left: 1px;
+    margin-top: 77px;
+    margin-bottom: -38px;
+}
+li a {
+    display:block;
+    min-width:96px;
+    height: -22px;
+    text-align: center;
+    line-height: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:black;
+    background: white;
+    text-decoration: none;
+}
+/*Hover state for top level links*/
